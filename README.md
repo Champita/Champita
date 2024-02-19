@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Champita
 - 👀 I’m interested in IA,Puzzles,Language learning and Food
 - 🌱 I’m currently learning Japanese and some cybersegurity stuff
-- 
+- ✨ I’m an IT Engineer with knowledge on Data Science.
+
 
 <!---
 Champita/Champita is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
