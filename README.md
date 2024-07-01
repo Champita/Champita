@@ -15,7 +15,7 @@
 
 - A self learner Data Scientist
 - Language learner [English,Spanish,Japanese,Italian]
-- Fast and active leaner.
+- Fast and active learner.
 - I’m currently workin at  as Data Scientist.
 
 <br><br>
